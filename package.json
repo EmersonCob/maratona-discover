@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmersonCob/maratona-discover.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EmersonCob/maratona-discover/issues"
+  },
+  "homepage": "https://github.com/EmersonCob/maratona-discover#readme"
 }
